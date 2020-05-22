@@ -1,0 +1,18 @@
+.title {
+  background-color: red;
+  height: 200px;
+  font-size: 24px;
+  color: white;
+}
+.body {
+  background-color: blanchedalmond;
+  height: 100px;
+  font-size: large;
+  color: yellowgreen;
+}
+.footer {
+  height: 10em;
+  background-color: steelblue;
+  font-size: medium;
+  color: brown;
+}
