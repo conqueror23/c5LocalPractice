@@ -109,6 +109,30 @@
       <path value="$PROJECT_DIR$/concrete/vendor/symfony/options-resolver" />
       <path value="$PROJECT_DIR$/concrete/vendor/symfony/polyfill-php70" />
       <path value="$PROJECT_DIR$/concrete/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/dbunit" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/concrete/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/concrete/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/concrete/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/concrete/vendor/guzzlehttp/command" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/concrete/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/concrete/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/concrete/vendor/mockery/mockery" />
     </include_path>
   </component>
   <component name="PhpUnit">
