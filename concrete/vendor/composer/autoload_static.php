@@ -145,6 +145,8 @@ class ComposerStaticInit3b309e78dac30ad0a195d4317e08f647
         ),
         'C' => 
         array (
+            'Concrete\\Tests\\' => 15,
+            'Concrete\\TestHelpers\\' => 21,
             'Concrete\\Core\\' => 14,
             'ComposerPatcher\\' => 16,
             'Cascade\\' => 8,
@@ -464,6 +466,14 @@ class ComposerStaticInit3b309e78dac30ad0a195d4317e08f647
         'Defuse\\Crypto\\' => 
         array (
             0 => __DIR__ . '/..' . '/defuse/php-encryption/src',
+        ),
+        'Concrete\\Tests\\' => 
+        array (
+            0 => __DIR__ . '/../../..' . '/tests/tests',
+        ),
+        'Concrete\\TestHelpers\\' => 
+        array (
+            0 => __DIR__ . '/../../..' . '/tests/helpers',
         ),
         'Concrete\\Core\\' => 
         array (

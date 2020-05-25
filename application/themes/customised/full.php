@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php View::element('header_required');?>
-
+    <?php Loader::element('header_required'); ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="<?=$view->getThemePath()?>/css/style.css" rel='stylesheet' type='text/css' media='screen and (min-width:1000px)'>
     <link href="<?=$view->getThemePath()?>/css/mobile.css" rel='stylesheet' type='text/css' media='screen and (max-width:500px)'>
@@ -19,6 +18,9 @@
             Body Section
         </h1>
     </div>
+        <p>
+        funny things you may find yourself here
+        </p>
     <div class="footer">
         <h1>
             Footer section

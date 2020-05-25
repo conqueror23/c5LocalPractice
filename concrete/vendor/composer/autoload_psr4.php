@@ -84,6 +84,8 @@ return array(
     'Doctrine\\Common\\' => array($vendorDir . '/doctrine/common/lib/Doctrine/Common'),
     'DoctrineXml\\' => array($vendorDir . '/concrete5/doctrine-xml/src'),
     'Defuse\\Crypto\\' => array($vendorDir . '/defuse/php-encryption/src'),
+    'Concrete\\Tests\\' => array($baseDir . '/tests/tests'),
+    'Concrete\\TestHelpers\\' => array($baseDir . '/tests/helpers'),
     'Concrete\\Core\\' => array($baseDir . '/concrete/src'),
     'ComposerPatcher\\' => array($vendorDir . '/mlocati/composer-patcher/src'),
     'Cascade\\' => array($vendorDir . '/theorchard/monolog-cascade/src'),
