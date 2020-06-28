@@ -43,6 +43,7 @@
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/illuminate/support" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/imagine/imagine" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/indigophp/hash-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/kylekatarnls/update-helper" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/lcobucci/jwt" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/league/csv" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/league/event" />
@@ -106,8 +107,12 @@
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/http-kernel" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/options-resolver" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-intl-idn" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-php56" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/polyfill-util" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/psr-http-message-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/concrete/vendor/symfony/serializer" />
